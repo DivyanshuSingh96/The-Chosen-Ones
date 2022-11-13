@@ -1,4 +1,4 @@
-# This project is made for Inspirathon 2.
+# This project is made for Inspirathon 2.0
 
 ### Our Main Dashboard
 ![Main Dashboard](theChosenOnes/static/assets/img/main-dashboard.png)
