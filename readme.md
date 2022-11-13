@@ -21,13 +21,24 @@ Using Machine Learning and Artificial Intelligence we are not only automating th
 HOW TO OPEN THE WEBSITE:
 --------------------------------------------
 In order to open this website, download this repository into your local machine and extract the zip in your desired folders.
-Then download all the latest version of Python libraires i.e. pip, django, virtualenv, etc.
-Use pip install [package]
-Eg - pip install django
 
-Then use python manage.py runserver in the root directory where manage.py file is stored.
-Eg - theChosenOnes is the base directory so we have to run the above command in this directory.
-cd D:/theChosenOnes - That's how we change the directory.
+1. First Install Python IDE if it is not installed in your system.
+
+2. Then Add it to the path environment variable.
+
+3. Then run terminal.
+
+4. Then download all the latest version of Python libraires i.e. pip, django, virtualenv, etc.
+
+5. Use pip install [package]
+
+   Eg - pip install django
+
+6. Then use python manage.py runserver in the root directory where manage.py file is stored.
+
+   Eg - theChosenOnes is the base directory so we have to run the above command in this directory.
+
+7. cd D:/theChosenOnes - That's how we change the directory.
 
 I hope you will love our project.
 
