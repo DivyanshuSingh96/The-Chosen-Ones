@@ -22,6 +22,12 @@ HOW TO OPEN THE WEBSITE:
 --------------------------------------------
 In order to open this website, download this repository into your local machine and extract the zip in your desired folders.
 Then download all the latest version of Python libraires i.e. pip, django, virtualenv, etc.
+Use pip install [package]
+Eg - pip install django
+
+Then use python manage.py runserver in the root directory where manage.py file is stored.
+Eg - theChosenOnes is the base directory so we have to run the above command in this directory.
+cd D:/theChosenOnes - That's how we change the directory.
 
 I hope you will love our project.
 
