@@ -24,7 +24,7 @@ I hope you will love our project.
 Team Name - Jeetenge
 
 Team Members
-Deepak Katyal - Team Leader
-Divyanshu Singh - Lead Full Stack Developer
-Aditya Agarwal - Lead Backend End Developer
-Samyak Jain - Lead Front End Developer
+1. Deepak Katyal - Team Leader
+2. Divyanshu Singh - Lead Full Stack Developer
+3. Aditya Agarwal - Lead Backend End Developer
+4. Samyak Jain - Lead Front End Developer
