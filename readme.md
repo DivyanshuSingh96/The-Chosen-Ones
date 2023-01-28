@@ -1,10 +1,10 @@
 # This project is made for Inspirathon 2.0
 
 ### Our Main Dashboard
-![Main Dashboard](theChosenOnes/static/assets/img/main-dashboard.png)
+![Main Dashboard](/theChosenOnes/static/assets/img/main-dashboard.png)
 
 ### Chart Tracker
-![Chart Tracker](theChosenOnes/static/assets/img/chart-tracker.png)
+![Chart Tracker](/theChosenOnes/static/assets/img/chart-tracker.png)
 
 In this project we have made website using django framework of python to not only help the rural women but everyone else who faces the problem of keeping records of their savings and expeditures.
 In this website we have a static part filled with important guidelines for investment options and tricks and tips. We also have shown how to use EFT shares so that people can invest even if they have very less amount of money like < Rs.500. 
